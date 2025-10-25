@@ -47,12 +47,10 @@ bill-extractor/
 └── README.md                 # Project overview and setup guide
 ```
 
-**Example Output**:
-The extracted data is presented in the following format:
+**Screenshot of Output**:
+Here’s a screenshot of how the extracted data looks in the app:
+![Screenshot of Output](images/screenshot.jpg)
 
-| Invoice ID | DESCRIPTION | Issue Date | UNIT PRICE | AMOUNT | Bill For | From     | Terms   |
-| ---------- | ----------- | ---------- | ---------- | ------ | -------- | -------- | ------- |
-| 1001329    | Product A   | 2023-05-01 | 50.00      | 500.00 | James    | Excel Co | Pay now |
 
 **Deployment**:
 You can deploy this app on platforms like [Heroku](https://www.heroku.com/) or [Streamlit Sharing](https://streamlit.io/sharing) for cloud-based access.

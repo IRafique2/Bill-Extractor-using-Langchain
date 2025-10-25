@@ -49,14 +49,9 @@ bill-extractor/
 
 **Screenshot of Output**:
 Here’s a screenshot of how the extracted data looks in the app:
-![Screenshot of Output](images/screenshot.jpg)
+![Screenshot of Output](images/Screenshot.jpg)
 
 
 **Deployment**:
 You can deploy this app on platforms like [Heroku](https://www.heroku.com/) or [Streamlit Sharing](https://streamlit.io/sharing) for cloud-based access.
 
-
-
----
-
-This format is clean and covers all necessary aspects to help others understand, install, and contribute to the project. Adjust the repository link and other relevant parts as necessary!

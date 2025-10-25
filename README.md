@@ -1,5 +1,5 @@
 # Bill Extractor AI Assistant
-![Newsletter App Screenshot](images/Screenshot 2025-10-25 162759.png)
+![Newsletter App Screenshot](images/Screenshot.png)
 **Description**:
 This project leverages the power of AI to extract and process invoice data from PDF files. The Bill Extractor AI Assistant utilizes Groq's model to extract key invoice details such as Invoice ID, Description, Issue Date, Unit Price, Amount, Bill For, From, and Terms. It processes uploaded PDF files and returns the extracted data in a structured format, which can be easily analyzed or exported as a CSV file.
 
